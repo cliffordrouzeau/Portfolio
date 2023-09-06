@@ -1,0 +1,193 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+a:link {
+    color: rgb(96, 96, 233);
+  }
+  
+  a:visited {
+    color: rgb(96, 96, 233);
+  }
+
+  a:hover {
+    color: aqua;
+  }
+  
+  a:active {
+    color: aqua;
+  }
+header {
+    padding: 30px;
+    background-color: rgb(22, 22, 22);
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    color: rgb(22, 22, 22);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    border: solid rgb(96, 96, 233) ;
+    width: 300px;
+    margin-left: -30px;
+    background-color: rgb(96, 96, 233);
+    padding-left: 50px;
+}
+
+ul {
+  list-style: none;
+  font-size: 30px;
+  margin-top: 10px;
+}
+
+il {
+    margin-left: 30px;
+}
+.img {
+    position: relative;
+}
+.img1 {
+    width: 100%;
+    height: 200px;
+    border: solid;
+    border-color: rgb(96, 96, 233);
+}
+.head2 {
+    position: absolute;
+    color: black;
+    background-color: rgb(96, 96, 233);
+    bottom: 20px;
+    right: 50px;
+    width: 300px;
+    height: 60px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.projects {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    margin: 20px;
+}
+.box1 {
+    width: 80%;
+    text-align: center;
+    border-style: solid;
+    border-width: 5px;
+    margin: 10px;
+    height: 300px;
+    position: relative;
+    border-color: rgb(96, 96, 233);
+  }
+  .box2 {
+    width: 40%;
+    text-align: center;
+    border-style: solid;
+    border-width: 5px;
+    margin: 5px;
+    height: 150px;
+    position: relative;
+    border-color: rgb(96, 96, 233);
+  }
+
+  .box1 img {
+    width: 100%;
+    height: 100%;
+    opacity: .5;
+    }
+    
+    .box1 figcaption{
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    border: solid rgb(96, 96, 233);
+    background-color: rgb(96, 96, 233);
+    color: black;
+    border-width: 30px 90px 30px 0px;
+    text-align: left;
+    margin: 60px 0px 0px 0px
+    }
+
+.box2 img {
+        width: 100%;
+        height: 100%;
+        opacity: .5;
+        }
+
+.box2 figcaption{
+        position: absolute;
+        top: 50%;
+        bottom: 50%;
+        border: solid rgb(96, 96, 233);
+        background-color: rgb(96, 96, 233);
+        color: black;
+        border-width: 30px 40px 30px 0px;
+        font-size: 30px;
+        text-align: left;
+        }
+
+        figcaption pre {
+          font-size: 30px;
+          line-height: 20%;
+          margin: -12px 0px 0px 0px;
+        }
+
+        .subt {
+          position: absolute;
+          line-height: 60px;
+          font-size: 16px;
+          padding-top: 2px;
+          padding-left: 2px;
+        }
+
+.box1 img:hover {
+  opacity: .9;
+}
+.box2 img:hover {
+  opacity: .9;
+}
+.contact {
+font-size: 40px;
+padding: 10px;
+color: rgb(96, 96, 233);
+width: 100%;
+text-align: center;
+border-bottom: 5px solid rgb(96, 96, 233);
+margin-bottom: 15px;
+}
+
+p {
+  margin-left: 20px;
+  text-align: center;
+}
+ .space {
+  display: flex;
+  justify-content: space-around;
+  margin-right: 20px;
+  line-height: 10px;
+  margin-top: 20px;
+ }
+ 
+ .space a {
+  line-height: 40px;
+  border: 5px solid rgb(96, 96, 233);
+  width: 20% ;
+  text-align: center;
+  background-color: rgb(96, 96, 233);
+  color: black;
+  opacity: .6;
+ }
+
+ .space a:hover{
+  opacity: .9;
+ }
+  
