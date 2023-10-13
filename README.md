@@ -10,7 +10,8 @@ had a picutre of myself and a header picture with some text one it
 then made each section had added the css
 ```
 
-![image](https://github.com/cliffordrouzeau/Portfolio/assets/142095138/cc387156-e7da-4d53-aa3b-1ed629a0f6ee)
+![image](https://github.com/cliffordrouzeau/Portfolio/assets/142095138/02298e08-28ff-45c7-ad25-7eea62bb14b6)
+
 
 
 [link to repo](https://cliffordrouzeau.github.io/Portfolio/)https://cliffordrouzeau.github.io/Portfolio/)
